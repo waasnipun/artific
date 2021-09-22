@@ -10,7 +10,7 @@ artific
         :target: https://travis-ci.com/waasnipun/artific
 
 .. image:: https://readthedocs.org/projects/artific/badge/?version=latest
-        :target: https://artific.readthedocs.io/en/latest/?version=latest
+        :target: https://artific-doc.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
 
