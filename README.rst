@@ -9,8 +9,8 @@ artific
 .. image:: https://img.shields.io/travis/waasnipun/artific.svg
         :target: https://travis-ci.com/waasnipun/artific
 
-.. image:: https://artific-doc.readthedocs.io/en/latest/?badge=latest
-        :target: https://artific-doc.readthedocs.io/en/latest/?version=latest
+.. image:: https://readthedocs.org/projects/artific-doc/badge/?version=latest
+        :target: https://artific-doc.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
