@@ -20,7 +20,7 @@ Python libray for efficient algorithms
 
 
 * Free software: MIT license
-* Documentation: https://artific.readthedocs.io.
+* Documentation: https://artific-doc.readthedocs.io.
 
 
 Features
