@@ -5,6 +5,10 @@ python:
 - 3.6
 install: pip install -U tox-travis
 script: tox
+branches:
+    only:
+    - main
+    - /v\d+\.\d+[a-z]/
 deploy:
   provider: pypi
   distributions: sdist bdist_wheel
