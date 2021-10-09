@@ -25,7 +25,10 @@ Python libray for efficient algorithms
 
 Features
 --------
+
 * Lists, arrays and trees
+_________________________
+
     * Sorting
         * **Bubblesort** - *For each pair of indices, swap the items if out of order.*
         * **Mergesort** - *Sort the first and second half of the list separately, then merge the sorted lists.*
