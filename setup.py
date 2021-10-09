@@ -44,10 +44,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/waasnipun/artific',
-<<<<<<< HEAD
-    version='0.0.3',
-=======
     version='0.0.2',
->>>>>>> 192572c (UPDATE: CI update)
     zip_safe=False,
 )
