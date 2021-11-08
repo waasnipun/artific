@@ -1,12 +1,7 @@
-=======
-artific
-=======
-
 .. figure:: /assets/banner.jpg
       :alt: some image
       :target: https://typo3.org
       :class: with-shadow
-
 
 .. image:: https://img.shields.io/pypi/v/artific.svg
         :target: https://pypi.python.org/pypi/artific
@@ -29,7 +24,6 @@ Python libray for efficient algorithms
 
 Features
 --------
-
     * Data structures
         * **Arrays**
         * **Linked Lists**
