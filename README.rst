@@ -1,6 +1,6 @@
-.. figure:: /assets/banner.jpg
-      :alt: some image
-      :target: https://typo3.org
+.. figure:: https://github.com/waasnipun/artific/blob/main/assets/banner.jpg
+      :alt: banner image
+      :target: https://github.com/waasnipun/artific
       :class: with-shadow
 
 .. image:: https://img.shields.io/pypi/v/artific.svg
