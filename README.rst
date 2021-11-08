@@ -2,7 +2,7 @@
 artific
 =======
 
-.. figure:: ../images/a4.jpg
+.. figure:: ../assets/banner.jpg
       :alt: some image
       :target: https://typo3.org
       :class: with-shadow
