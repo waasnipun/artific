@@ -2,6 +2,12 @@
 artific
 =======
 
+.. figure:: ../images/a4.jpg
+      :alt: some image
+      :target: https://typo3.org
+      :class: with-shadow
+      :width: 100px
+
 
 .. image:: https://img.shields.io/pypi/v/artific.svg
         :target: https://pypi.python.org/pypi/artific
@@ -12,7 +18,7 @@ artific
 .. image:: https://readthedocs.org/projects/artific-doc/badge/?version=main
         :target: https://artific-doc.readthedocs.io/en/main/?badge=main
         :alt: Documentation Status
-     
+
 
 
 Python libray for efficient algorithms
@@ -25,18 +31,55 @@ Python libray for efficient algorithms
 Features
 --------
 
-* Lists, arrays and trees
-_________________________
-
+    * Data structures
+        * **Arrays**
+        * **Linked Lists**
+        * **Stacks**
+        * **Queues**
+        * **Maps & Hash Tables**
+        * **Graphs**
+        * **Trees**
+        * **Binary Trees & Binary Search Trees**
+        * **Self-balancing Trees (AVL Trees, Red-Black Trees, Splay Trees)**
+        * **Heaps**
+        * **Disjoint Set Union**
+        * **Minimum Spanning Trees**
     * Sorting
-        * **Bubblesort** - *For each pair of indices, swap the items if out of order.*
-        * **Mergesort** - *Sort the first and second half of the list separately, then merge the sorted lists.*
-        * **Heapsort** - *Convert the list into a heap, keep removing the largest element from the heap and adding it to the end of the list.*
-        * **Insertionsort** - *Determine where the current item belongs in the list of sorted ones, and insert it there.*
-        * **Quicksort** - *Divide list into two, with all items on the first list coming before all items on the second list.; then sort the two lists. Often the method of choice.*
-        * **Selection sort** - *Pick the smallest of the remaining elements, add it to the end of the sorted list.*
-        * **Pigeonhole sort.** - *Fill an empty array with all elements of an array to be sorted, in order.*
-        * **Binary tree sort.** - *Sort of a binary tree, incremental, similar to insertion sort.*
+        * **Bubblesort**
+        * **Mergesort**
+        * **Heapsort**
+        * **Insertionsort**
+        * **Quicksort**
+        * **Selection sort**
+        * **Pigeonhole sort.**
+        * **Binary tree sort.**
+    * Searching
+        * **Linear search**
+        * **Binary search**
+    * Graph based DSA
+        * **Graph Data Structure**
+        * **Spanning Tree**
+        * **Strongly Connected Components**
+        * **Adjacency Matrix**
+        * **Adjacency List**
+        * **DFS Algorithm**
+        * **Breadth-first Search**
+        * **Bellman Ford's Algorithm**
+    * Greedy Algorithms
+        * **Greedy Algorithm**
+        * **Ford-Fulkerson Algorithm**
+        * **Dijkstra's Algorithm**
+        * **Kruskal's Algorithm**
+        * **Prim's Algorithm**
+        * **Huffman Code**
+    * Dynamic Programming
+        * **Backtracking Algorithm**
+        * **Rabin-Karp Algorithm**
+
+
+
+
+
 Credits
 -------
 
