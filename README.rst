@@ -6,7 +6,6 @@ artific
       :alt: some image
       :target: https://typo3.org
       :class: with-shadow
-      :width: 100px
 
 
 .. image:: https://img.shields.io/pypi/v/artific.svg
