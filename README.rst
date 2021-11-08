@@ -1,4 +1,4 @@
-.. figure:: https://github.com/waasnipun/artific/blob/main/assets/banner.jpg
+.. figure:: /assets/banner.jpg
       :alt: banner image
       :target: https://github.com/waasnipun/artific
       :class: with-shadow
