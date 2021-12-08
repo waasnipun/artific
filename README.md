@@ -14,7 +14,7 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>Ç
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
@@ -41,7 +41,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -67,56 +66,33 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-<
 
-Features
---------
-    * Data structures
-        * **Arrays**
-        * **Linked Lists**
-        * **Stacks**
-        * **Queues**
-        * **Maps & Hash Tables**
-        * **Graphs**
-        * **Trees**
-        * **Binary Trees & Binary Search Trees**
-        * **Self-balancing Trees (AVL Trees, Red-Black Trees, Splay Trees)**
-        * **Heaps**
-        * **Disjoint Set Union**
-        * **Minimum Spanning Trees**
-    * Sorting
-        * **Bubblesort**
-        * **Mergesort**
-        * **Heapsort**
-        * **Insertionsort**
-        * **Quicksort**
-        * **Selection sort**
-        * **Pigeonhole sort.**
-        * **Binary tree sort.**
-    * Searching
-        * **Linear search**
-        * **Binary search**
-    * Graph based DSA
-        * **Graph Data Structure**
-        * **Spanning Tree**
-        * **Strongly Connected Components**
-        * **Adjacency Matrix**
-        * **Adjacency List**
-        * **DFS Algorithm**
-        * **Breadth-first Search**
-        * **Bellman Ford's Algorithm**
-    * Greedy Algorithms
-        * **Greedy Algorithm**
-        * **Ford-Fulkerson Algorithm**
-        * **Dijkstra's Algorithm**
-        * **Kruskal's Algorithm**
-        * **Prim's Algorithm**
-        * **Huffman Code**
-    * Dynamic Programming
-        * **Backtracking Algorithm**
-        * **Rabin-Karp Algorithm**
+## Getting Started
+## Installation
+### Stable release
+To install artific, run this command in your terminal
+```
+pip install artific
+```
+This is the preferred method to install artific, as it will always install the most recent stable release.
 
+If you don't have <a href="https://pip.pypa.io">pip</a>  installed, this <a href="http://docs.python-guide.org/en/latest/starting/installation/">Python installation guide</a>  can guide
+you through the process. <br></br>
 
+## Algorithms
+### Sorting
+#### Bubblesort
+```
+from artific import BubbleSort
+
+arr = [90,6,2,55,67,2,0,12,92,5,76,2,9,3]
+arr = BubbleSort(arr)
+
+print(arr)
+```
+
+The code above will generate the following GIF
+![](assets/bubble_sort.gif)
 
 
 
