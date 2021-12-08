@@ -4,13 +4,13 @@
 
 from setuptools import setup, find_packages
 
-with open('README.rst') as readme_file:
+with open('README.md') as readme_file:
     readme = readme_file.read()
 
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['Click>=7.0', ]
+requirements = ['Click>=7.0', 'scipy', 'numpy', 'matplotlib', 'imageio']
 
 test_requirements = ['pytest>=3', ]
 
@@ -28,7 +28,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="Python libray for efficient algorithms",
+    description="An algorithm visualization pip package for Python",
     entry_points={
         'console_scripts': [
             'artific=artific.cli:main',
@@ -44,6 +44,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/waasnipun/artific',
-    version='0.0.3',
+    version='0.0.8',
     zip_safe=False,
 )

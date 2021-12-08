@@ -7,16 +7,16 @@
   </a>
 
   <p align="center">
-    An Algorithm Visualization Tool for Python
+    An algorithm visualization pip package for Python
     <br />
     <a href="https://artific-doc.readthedocs.io"><strong>Explore the docs »</strong></a>
     <br />
-    <!-- <br />
+    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
   <div align="center">
 <a href='https://artific-doc.readthedocs.io/en/main/?badge=main'>
@@ -39,23 +39,28 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#sorting">Sorting</a>
-      <ul>
-        <li><a href="#bubblesort">Bubblesort</a></li>
-        <li><a href="#mergesort">Mergesort</a></li>
-        <li><a href="#mergesort">Heapsort</a></li>
-        <li><a href="#insertionsort">Insertionsort</a></li>
-        <li><a href="#quicksort">Quicksort</a></li>
-      </ul>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#algorithms">Algorithms</a>
+      <ul>
+        <li>
+            <a href="#sorting">Sorting</a>
+            <ul>
+                <li><a href="#bubblesort">Bubblesort</a></li>
+                <li><a href="#mergesort">Mergesort</a></li>
+                <li><a href="#mergesort">Heapsort</a></li>
+                <li><a href="#insertionsort">Insertionsort</a></li>
+                <li><a href="#quicksort">Quicksort</a></li>
+            </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#notebooks">Notebooks</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
