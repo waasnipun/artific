@@ -2,6 +2,8 @@
 
 __author__ = """Nipun Waas"""
 __email__ = 'waasnipun@gmail.com'
-__version__ = '0.0.8'
+__version__ = '0.0.11'
 
 from artific.artific import BubbleSort as BubbleSort
+from artific.artific import InsertionSort as InsertionSort
+from artific.artific import HeapSort as HeapSort
