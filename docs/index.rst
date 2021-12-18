@@ -11,7 +11,7 @@ Welcome to artific's documentation!
    modules
    contributing
    authors
-   history
+
 
 Indices and tables
 ==================

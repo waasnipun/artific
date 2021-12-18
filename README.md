@@ -52,13 +52,17 @@
                 <li><a href="#insertionsort">Insertionsort</a></li>
             </ul>
         </li>
+        <li>
+            <a href="#searching">Searching</a>
+            <ul>
+                <li><a href="#linearsearch">Linear search</a></li>
+                <li><a href="#binarysearch">Binary search</a></li>
+            </ul>
+        </li>
       </ul>
     </li>
     <li><a href="#notebooks">Notebooks</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#todo">TODO</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 
@@ -126,6 +130,12 @@ Output
 ```
 The code above will generate the following GIF
 ![](assets/heapsort.gif)
+
+## TODO
+
+* Searching
+* Graph Algorithms
+* Trees
 
 ## Acknowledgments
 
