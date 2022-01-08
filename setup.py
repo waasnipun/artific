@@ -45,6 +45,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/waasnipun/artific',
-    version='0.0.11',
+    version='0.0.12',
     zip_safe=False,
 )

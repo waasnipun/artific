@@ -12,11 +12,11 @@
     <a href="https://artific-doc.readthedocs.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
   <div align="center">
 <!-- <a href='https://artific-doc.readthedocs.io/en/main/?badge=main'>
@@ -95,7 +95,7 @@ Output
 [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
 ```
 The code above will generate the following GIF
-![](assets/bubble_sort.gif)
+![](https://github.com/waasnipun/artific/blob/main/assets/banner.jpg?raw=true)
 
 #### Insertionsort
 ```
