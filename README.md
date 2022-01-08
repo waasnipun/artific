@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/assets/banner.jpg" alt="Logo">
+    <img src="https://github.com/waasnipun/artific/raw/main/assets/banner.jpg" alt="Logo">
   </a>
 
   <p align="center">
@@ -95,7 +95,7 @@ Output
 [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
 ```
 The code above will generate the following GIF
-![](https://github.com/waasnipun/artific/blob/main/assets/banner.jpg?raw=true)
+![](https://github.com/waasnipun/artific/blob/main/assets/bubble_sort.gif)
 
 #### Insertionsort
 ```
@@ -112,7 +112,7 @@ Output
 [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
 ```
 The code above will generate the following GIF
-![](assets/insertion_sort.gif)
+![](https://github.com/waasnipun/artific/blob/main/assets/insertion_sort.gif)
 
 #### Heapsort
 ```
@@ -129,7 +129,43 @@ Output
 [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
 ```
 The code above will generate the following GIF
-![](assets/heapsort.gif)
+![](https://github.com/waasnipun/artific/blob/main/assets/heapsort.gif)
+
+### Searching
+#### Linear search
+```
+from artific import LinearSearch
+
+arr = [90,6,2,55,67,2,0,12,92,5,76,2,9,3]
+obj = LinearSearch(arr,1)
+
+obj.visualize()
+print(obj)
+```
+Output
+```angular2html
+3
+```
+The code above will generate the following GIF
+![](https://github.com/waasnipun/artific/blob/main/assets/linearsearch.gif)
+
+#### Linear search
+```
+from artific import BinarySearch
+
+arr = [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
+obj = LinearSearch(arr,55)
+
+obj.visualize()
+print(obj)
+```
+Output
+```angular2html
+9
+```
+The code above will generate the following GIF
+![](https://github.com/waasnipun/artific/blob/main/assets/binarysearch.gif.gif)
+
 
 ## TODO
 
