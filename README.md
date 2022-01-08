@@ -149,7 +149,7 @@ Output
 The code above will generate the following GIF
 ![](https://github.com/waasnipun/artific/blob/main/assets/linearsearch.gif)
 
-#### Linear search
+#### Binary search
 ```
 from artific import BinarySearch
 
@@ -164,7 +164,7 @@ Output
 9
 ```
 The code above will generate the following GIF
-![](https://github.com/waasnipun/artific/blob/main/assets/binarysearch.gif.gif)
+![](https://github.com/waasnipun/artific/blob/main/assets/binarysearch.gif)
 
 
 ## TODO
