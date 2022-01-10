@@ -154,7 +154,7 @@ The code above will generate the following GIF
 from artific import BinarySearch
 
 arr = [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
-obj = LinearSearch(arr,55)
+obj = BinarySearch(arr,55)
 
 obj.visualize()
 print(obj)
