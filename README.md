@@ -81,7 +81,7 @@ you through the process. <br></br>
 ## Algorithms
 ### Sorting
 #### Bubblesort
-```
+```py
 from artific import BubbleSort
 
 arr = [90,6,2,55,67,2,0,12,92,5,76,2,9,3]
@@ -98,7 +98,7 @@ The code above will generate the following GIF
 ![](https://github.com/waasnipun/artific/blob/main/assets/bubble_sort.gif)
 
 #### Insertionsort
-```
+```py
 from artific import InsertionSort
 
 arr = [90,6,2,55,67,2,0,12,92,5,76,2,9,3]
@@ -115,7 +115,7 @@ The code above will generate the following GIF
 ![](https://github.com/waasnipun/artific/blob/main/assets/insertion_sort.gif)
 
 #### Heapsort
-```
+```py
 from artific import HeapSort
 
 arr = [90,6,2,55,67,2,0,12,92,5,76,2,9,3]
@@ -133,7 +133,7 @@ The code above will generate the following GIF
 
 ### Searching
 #### Linear search
-```
+```py
 from artific import LinearSearch
 
 arr = [90,6,2,55,67,2,0,12,92,5,76,2,9,3]
@@ -150,7 +150,7 @@ The code above will generate the following GIF
 ![](https://github.com/waasnipun/artific/blob/main/assets/linearsearch.gif)
 
 #### Binary search
-```
+```py
 from artific import BinarySearch
 
 arr = [0, 2, 2, 2, 3, 5, 6, 9, 12, 55, 67, 76, 90, 92]
